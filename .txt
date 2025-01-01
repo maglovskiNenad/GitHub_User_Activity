@@ -1,0 +1,545 @@
+[
+  {
+    "id": "45196196232",
+    "type": "PushEvent",
+    "actor": {
+      "id": 79421496,
+      "login": "maglovskiNenad",
+      "display_login": "maglovskiNenad",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/maglovskiNenad",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79421496?"
+    },
+    "repo": {
+      "id": 910934554,
+      "name": "maglovskiNenad/GitHub_User_Activity",
+      "url": "https://api.github.com/repos/maglovskiNenad/GitHub_User_Activity"
+    },
+    "payload": {
+      "repository_id": 910934554,
+      "push_id": 21935285372,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "7782134e0c9964f3662129b0cc6795bd756a3630",
+      "before": "f70fa7c19f8110414ee70b281ec969a49bcd8e85",
+      "commits": [
+        {
+          "sha": "7782134e0c9964f3662129b0cc6795bd756a3630",
+          "author": {
+            "email": "79421496+maglovskiNenad@users.noreply.github.com",
+            "name": "Maglovski Nenad"
+          },
+          "message": "Update README.md",
+          "distinct": true,
+          "url": "https://api.github.com/repos/maglovskiNenad/GitHub_User_Activity/commits/7782134e0c9964f3662129b0cc6795bd756a3630"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-01-01T20:47:57Z"
+  },
+  {
+    "id": "45196178911",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 79421496,
+      "login": "maglovskiNenad",
+      "display_login": "maglovskiNenad",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/maglovskiNenad",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79421496?"
+    },
+    "repo": {
+      "id": 910934554,
+      "name": "maglovskiNenad/GitHub_User_Activity",
+      "url": "https://api.github.com/repos/maglovskiNenad/GitHub_User_Activity"
+    },
+    "payload": {
+      "ref": "main",
+      "ref_type": "branch",
+      "master_branch": "main",
+      "description": "GitHub API to fetch user activity and display it in the terminal.",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2025-01-01T20:45:43Z"
+  },
+  {
+    "id": "45196178927",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 79421496,
+      "login": "maglovskiNenad",
+      "display_login": "maglovskiNenad",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/maglovskiNenad",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79421496?"
+    },
+    "repo": {
+      "id": 910934554,
+      "name": "maglovskiNenad/GitHub_User_Activity",
+      "url": "https://api.github.com/repos/maglovskiNenad/GitHub_User_Activity"
+    },
+    "payload": {
+      "ref": null,
+      "ref_type": "repository",
+      "master_branch": "main",
+      "description": "GitHub API to fetch user activity and display it in the terminal.",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2025-01-01T20:45:43Z"
+  },
+  {
+    "id": "45195054795",
+    "type": "PushEvent",
+    "actor": {
+      "id": 79421496,
+      "login": "maglovskiNenad",
+      "display_login": "maglovskiNenad",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/maglovskiNenad",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79421496?"
+    },
+    "repo": {
+      "id": 908730345,
+      "name": "maglovskiNenad/first-contributions",
+      "url": "https://api.github.com/repos/maglovskiNenad/first-contributions"
+    },
+    "payload": {
+      "repository_id": 908730345,
+      "push_id": 21934519534,
+      "size": 162,
+      "distinct_size": 162,
+      "ref": "refs/heads/main",
+      "head": "7072b565b4e618c67ece542ebe2b94a1e38b82cb",
+      "before": "7c11ad6a48893fd88f4f3714842d7db9430aed9d",
+      "commits": [
+        {
+          "sha": "761161f680fa2350f29e72a889d532b840a2744c",
+          "author": {
+            "email": "79421496+maglovskiNenad@users.noreply.github.com",
+            "name": "Maglovski Nenad"
+          },
+          "message": "Add maglovskiNenad to Contributors list (#92488)",
+          "distinct": true,
+          "url": "https://api.github.com/repos/maglovskiNenad/first-contributions/commits/761161f680fa2350f29e72a889d532b840a2744c"
+        },
+        {
+          "sha": "22f268f825f91548f912b787d3bde0bc8d038fb4",
+          "author": {
+            "email": "boxenmann@online.de",
+            "name": "sanecraft42"
+          },
+          "message": "add sanecrafr42 to Contribtutors list! (#92487)\n\nCo-authored-by: Roshan Jossy <roshanjossey@gmail.com>",
+          "distinct": true,
+          "url": "https://api.github.com/repos/maglovskiNenad/first-contributions/commits/22f268f825f91548f912b787d3bde0bc8d038fb4"
+        },
+        {
+          "sha": "406e05d2219274584a4fed4309bcdbde8dd63969",
+          "author": {
+            "email": "168532289+Rushang-github@users.noreply.github.com",
+            "name": "Rushang savaliya"
+          },
+          "message": "Update Contributors.md (#92482)\n\nremoving extra )",
+          "distinct": true,
+          "url": "https://api.github.com/repos/maglovskiNenad/first-contributions/commits/406e05d2219274584a4fed4309bcdbde8dd63969"
+        },
+        {
+          "sha": "5b5f00ade3cd12d0e26e790a083e37edf1ec0076",
+          "author": {
+            "email": "antonymurithi51@gmail.com",
+            "name": "Antony Namu"
+          },
+          "message": "Adding Namu to contributors lists (#92457)\n\nCo-authored-by: Roshan Jossy <roshanjossey@gmail.com>",
+          "distinct": true,
+          "url": "https://api.github.com/repos/maglovskiNenad/first-contributions/commits/5b5f00ade3cd12d0e26e790a083e37edf1ec0076"
+        },
+        {
+          "sha": "9c2274357d87081f4737bd7fb24997eb09dd6143",
+          "author": {
+            "email": "37650622+chinagpsi@users.noreply.github.com",
+            "name": "chinagpsi"
+          },
+          "message": "Add Papavero to contributors list (#92455)",
+          "distinct": true,
+          "url": "https://api.github.com/repos/maglovskiNenad/first-contributions/commits/9c2274357d87081f4737bd7fb24997eb09dd6143"
+        },
+        {
+          "sha": "7b8aff365edecd7f815929c5e3198ccf524f679b",
+          "author": {
+            "email": "81510872+Borsoon@users.noreply.github.com",
+            "name": "Borys Baz"
+          },
+          "message": "Added Borsoon to Contributors list (#92490)",
+          "distinct": true,
+          "url": "https://api.github.com/repos/maglovskiNenad/first-contributions/commits/7b8aff365edecd7f815929c5e3198ccf524f679b"
+        },
+        {
+          "sha": "60e33ecd439124ec5432f91d5fd4d3e29e010f8e",
+          "author": {
+            "email": "49282175+yusraMasood@users.noreply.github.com",
+            "name": "yusraMasood"
+          },
+          "message": "Add yusraMasood to Contributors list (#92491)\n\nCo-authored-by: Yusra Masood <yusramasood@Yusras-MacBook-Air.local>",
+          "distinct": true,
+          "url": "https://api.github.com/repos/maglovskiNenad/first-contributions/commits/60e33ecd439124ec5432f91d5fd4d3e29e010f8e"
+        },
+        {
+          "sha": "da484476bca97d953c8344d76e024c363b031b76",
+          "author": {
+            "email": "lucas.dev.err@gmail.com",
+            "name": "Lucas"
+          },
+          "message": "Add Lucas to Contributors list (#92492)",
+          "distinct": true,
+          "url": "https://api.github.com/repos/maglovskiNenad/first-contributions/commits/da484476bca97d953c8344d76e024c363b031b76"
+        },
+        {
+          "sha": "eecb29e7c68720e210ca7953b1ccaafdf40046b7",
+          "author": {
+            "email": "138352404+charulekha-pandian@users.noreply.github.com",
+            "name": "Charulekha P"
+          },
+          "message": "Add Charulekha to Contibutors list (#92495)",
+          "distinct": true,
+          "url": "https://api.github.com/repos/maglovskiNenad/first-contributions/commits/eecb29e7c68720e210ca7953b1ccaafdf40046b7"
+        },
+        {
+          "sha": "3e22d057b05f34db59686311dfb0cff84ef5f0f2",
+          "author": {
+            "email": "benbapel@post.bgu.ac.il",
+            "name": "Peleg Ben Barak"
+          },
+          "message": ":tada: added my name (#92496)",
+          "distinct": true,
+          "url": "https://api.github.com/repos/maglovskiNenad/first-contributions/commits/3e22d057b05f34db59686311dfb0cff84ef5f0f2"
+        },
+        {
+          "sha": "8656a5adb6a9876920de917283a48d20e1fbf191",
+          "author": {
+            "email": "tham.jurong@gmail.com",
+            "name": "ryanjrt"
+          },
+          "message": "Add Ryan Tham to Contributors list (#92497)",
+          "distinct": true,
+          "url": "https://api.github.com/repos/maglovskiNenad/first-contributions/commits/8656a5adb6a9876920de917283a48d20e1fbf191"
+        },
+        {
+          "sha": "331f3c6e0e638751288ece4458c0632e43f6538d",
+          "author": {
+            "email": "122475751+swapneelsingh@users.noreply.github.com",
+            "name": "Swapneel singh"
+          },
+          "message": "Added Swapneel_Singh to the contributors list (#92498)",
+          "distinct": true,
+          "url": "https://api.github.com/repos/maglovskiNenad/first-contributions/commits/331f3c6e0e638751288ece4458c0632e43f6538d"
+        },
+        {
+          "sha": "a1e467fb0dab0146e1477017e90dbfaf263058c8",
+          "author": {
+            "email": "149302293+Induanuga@users.noreply.github.com",
+            "name": "Indu Anuga"
+          },
+          "message": "Update Contributors.md (#92499)\n\n* Update Contributors.md\n\n* Update Contributors.md\n\n* Update Contributors.md",
+          "distinct": true,
+          "url": "https://api.github.com/repos/maglovskiNenad/first-contributions/commits/a1e467fb0dab0146e1477017e90dbfaf263058c8"
+        },
+        {
+          "sha": "1f09f4e1bf054f8ca902e8f336157c776bc2a58f",
+          "author": {
+            "email": "118420820+nmaffly@users.noreply.github.com",
+            "name": "nmaffly"
+          },
+          "message": "Add nathaniel-maffly to Contributors List (#92500)",
+          "distinct": true,
+          "url": "https://api.github.com/repos/maglovskiNenad/first-contributions/commits/1f09f4e1bf054f8ca902e8f336157c776bc2a58f"
+        },
+        {
+          "sha": "4117de72fc36939e274aac2c2720f3eb73c583f3",
+          "author": {
+            "email": "87915276+EricccTaiwan@users.noreply.github.com",
+            "name": "Eric Chou"
+          },
+          "message": "Add Eric to Contributors list (#92501)",
+          "distinct": true,
+          "url": "https://api.github.com/repos/maglovskiNenad/first-contributions/commits/4117de72fc36939e274aac2c2720f3eb73c583f3"
+        },
+        {
+          "sha": "bf91020a613c52061f7430d3f00fe93f184863bc",
+          "author": {
+            "email": "rgvmanikanta05@gmail.com",
+            "name": "Rohith Gudimetla"
+          },
+          "message": "Added rohith to contributors list (#92502)",
+          "distinct": true,
+          "url": "https://api.github.com/repos/maglovskiNenad/first-contributions/commits/bf91020a613c52061f7430d3f00fe93f184863bc"
+        },
+        {
+          "sha": "a5e4a9efc3b355b12c7304cac9d0bb5401db3506",
+          "author": {
+            "email": "hihibabo@naver.com",
+            "name": "athena"
+          },
+          "message": "Add Bianchi to Contributors list (#92503)",
+          "distinct": true,
+          "url": "https://api.github.com/repos/maglovskiNenad/first-contributions/commits/a5e4a9efc3b355b12c7304cac9d0bb5401db3506"
+        },
+        {
+          "sha": "db240be3de40261f67250cd21e943b5ef3c95e4e",
+          "author": {
+            "email": "51128347+BhawishKumarLohana@users.noreply.github.com",
+            "name": "Bhawish Kumar"
+          },
+          "message": "Bhawish Kumar to Contributors list (#92505)",
+          "distinct": true,
+          "url": "https://api.github.com/repos/maglovskiNenad/first-contributions/commits/db240be3de40261f67250cd21e943b5ef3c95e4e"
+        },
+        {
+          "sha": "403af648c0888ad0243480ff32398222d7fd13e9",
+          "author": {
+            "email": "160774479+SankalpYerigeri@users.noreply.github.com",
+            "name": "Sankalp"
+          },
+          "message": "My first contri (#92506)",
+          "distinct": true,
+          "url": "https://api.github.com/repos/maglovskiNenad/first-contributions/commits/403af648c0888ad0243480ff32398222d7fd13e9"
+        },
+        {
+          "sha": "131f0b790909db816bed5d656dec39de0c2f27e6",
+          "author": {
+            "email": "gsully32@gmail.com",
+            "name": "Gabe Sullivan"
+          },
+          "message": "added name (#92507)",
+          "distinct": true,
+          "url": "https://api.github.com/repos/maglovskiNenad/first-contributions/commits/131f0b790909db816bed5d656dec39de0c2f27e6"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-01-01T18:28:26Z"
+  },
+  {
+    "id": "45167022865",
+    "type": "WatchEvent",
+    "actor": {
+      "id": 79421496,
+      "login": "maglovskiNenad",
+      "display_login": "maglovskiNenad",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/maglovskiNenad",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79421496?"
+    },
+    "repo": {
+      "id": 85077558,
+      "name": "kamranahmedse/developer-roadmap",
+      "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap"
+    },
+    "payload": {
+      "action": "started"
+    },
+    "public": true,
+    "created_at": "2024-12-30T22:15:42Z"
+  },
+  {
+    "id": "45153030753",
+    "type": "PublicEvent",
+    "actor": {
+      "id": 79421496,
+      "login": "maglovskiNenad",
+      "display_login": "maglovskiNenad",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/maglovskiNenad",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79421496?"
+    },
+    "repo": {
+      "id": 909423922,
+      "name": "maglovskiNenad/TO_dos",
+      "url": "https://api.github.com/repos/maglovskiNenad/TO_dos"
+    },
+    "payload": {},
+    "public": true,
+    "created_at": "2024-12-30T09:33:16Z"
+  },
+  {
+    "id": "45151958526",
+    "type": "PushEvent",
+    "actor": {
+      "id": 79421496,
+      "login": "maglovskiNenad",
+      "display_login": "maglovskiNenad",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/maglovskiNenad",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79421496?"
+    },
+    "repo": {
+      "id": 909423922,
+      "name": "maglovskiNenad/TO_dos",
+      "url": "https://api.github.com/repos/maglovskiNenad/TO_dos"
+    },
+    "payload": {
+      "repository_id": 909423922,
+      "push_id": 21909180820,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "750b662137853c47b73bf3ae30a261bfb08ab543",
+      "before": "4f5b04b02b56677fe74c67b7bc005fb017cc9742",
+      "commits": [
+        {
+          "sha": "750b662137853c47b73bf3ae30a261bfb08ab543",
+          "author": {
+            "email": "79421496+maglovskiNenad@users.noreply.github.com",
+            "name": "Maglovski Nenad"
+          },
+          "message": "Update README.md",
+          "distinct": true,
+          "url": "https://api.github.com/repos/maglovskiNenad/TO_dos/commits/750b662137853c47b73bf3ae30a261bfb08ab543"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2024-12-30T08:37:32Z"
+  },
+  {
+    "id": "45151952337",
+    "type": "PushEvent",
+    "actor": {
+      "id": 79421496,
+      "login": "maglovskiNenad",
+      "display_login": "maglovskiNenad",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/maglovskiNenad",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79421496?"
+    },
+    "repo": {
+      "id": 909423922,
+      "name": "maglovskiNenad/TO_dos",
+      "url": "https://api.github.com/repos/maglovskiNenad/TO_dos"
+    },
+    "payload": {
+      "repository_id": 909423922,
+      "push_id": 21909177554,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "4f5b04b02b56677fe74c67b7bc005fb017cc9742",
+      "before": "05d710bf6e76aec6e9826fedf1de2454087e70b9",
+      "commits": [
+        {
+          "sha": "4f5b04b02b56677fe74c67b7bc005fb017cc9742",
+          "author": {
+            "email": "79421496+maglovskiNenad@users.noreply.github.com",
+            "name": "Maglovski Nenad"
+          },
+          "message": "Update README.md",
+          "distinct": true,
+          "url": "https://api.github.com/repos/maglovskiNenad/TO_dos/commits/4f5b04b02b56677fe74c67b7bc005fb017cc9742"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2024-12-30T08:37:10Z"
+  },
+  {
+    "id": "45151930108",
+    "type": "PushEvent",
+    "actor": {
+      "id": 79421496,
+      "login": "maglovskiNenad",
+      "display_login": "maglovskiNenad",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/maglovskiNenad",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79421496?"
+    },
+    "repo": {
+      "id": 909423922,
+      "name": "maglovskiNenad/TO_dos",
+      "url": "https://api.github.com/repos/maglovskiNenad/TO_dos"
+    },
+    "payload": {
+      "repository_id": 909423922,
+      "push_id": 21909165176,
+      "size": 2,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "05d710bf6e76aec6e9826fedf1de2454087e70b9",
+      "before": "8e18cbcfa39661b3805cb9a1365e7dcfee23028e",
+      "commits": [
+        {
+          "sha": "dca09dd6302f27e8054d37e7baf1da48795890d3",
+          "author": {
+            "email": "79421496+maglovskiNenad@users.noreply.github.com",
+            "name": "Maglovski Nenad"
+          },
+          "message": "url",
+          "distinct": false,
+          "url": "https://api.github.com/repos/maglovskiNenad/TO_dos/commits/dca09dd6302f27e8054d37e7baf1da48795890d3"
+        },
+        {
+          "sha": "05d710bf6e76aec6e9826fedf1de2454087e70b9",
+          "author": {
+            "email": "79421496+maglovskiNenad@users.noreply.github.com",
+            "name": "Maglovski Nenad"
+          },
+          "message": "Merge pull request #4 from maglovskiNenad/test\n\nurl",
+          "distinct": true,
+          "url": "https://api.github.com/repos/maglovskiNenad/TO_dos/commits/05d710bf6e76aec6e9826fedf1de2454087e70b9"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2024-12-30T08:35:54Z"
+  },
+  {
+    "id": "45151929911",
+    "type": "PullRequestEvent",
+    "actor": {
+      "id": 79421496,
+      "login": "maglovskiNenad",
+      "display_login": "maglovskiNenad",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/maglovskiNenad",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79421496?"
+    },
+    "repo": {
+      "id": 909423922,
+      "name": "maglovskiNenad/TO_dos",
+      "url": "https://api.github.com/repos/maglovskiNenad/TO_dos"
+    },
+    "payload": {
+      "action": "closed",
+      "number": 4,
+      "pull_request": {
+        "url": "https://api.github.com/repos/maglovskiNenad/TO_dos/pulls/4",
+        "id": 2255110426,
+        "node_id": "PR_kwDONjS1Ms6GakEa",
+        "html_url": "https://github.com/maglovskiNenad/TO_dos/pull/4",
+        "diff_url": "https://github.com/maglovskiNenad/TO_dos/pull/4.diff",
+        "patch_url": "https://github.com/maglovskiNenad/TO_dos/pull/4.patch",
+        "issue_url": "https://api.github.com/repos/maglovskiNenad/TO_dos/issues/4",
+        "number": 4,
+        "state": "closed",
+        "locked": false,
+        "title": "url",
+        "user": {
+          "login": "maglovskiNenad",
+          "id": 79421496,
+          "node_id": "MDQ6VXNlcjc5NDIxNDk2",
+          "avatar_url": "https://avatars.githubusercontent.com/u/79421496?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/maglovskiNenad",
+          "html_url": "https://github.com/maglovskiNenad",
+          "followers_url": "https://api.github.com/users/maglovskiNenad/followers",
+          "following_url": "https://api.github.com/users/maglovskiNenad/following{/other_user}",
+          "gists_url": "https://api.github.com/users/maglovskiNenad/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/maglovskiNenad/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/maglovskiNenad/subscriptions",
+          "organizations_url": "https://api.github.com/users/maglo"
+        }
+      }
+    }
+  }
+]
