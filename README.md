@@ -1,5 +1,7 @@
 # GitHub User Activity Fetcher
 
+https://roadmap.sh/projects/github-user-activity
+
 A simple command-line tool that uses the GitHub API to fetch and display a user's recent activity directly in the terminal.
 
 ## Features
